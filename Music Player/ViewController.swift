@@ -23,18 +23,18 @@ class ViewController: UIViewController, UITableViewDelegate,UITableViewDataSourc
     }
     
     func configureSongs(){
-        songs.append(Song(name: "Butter", albumName: "Butter", artistName: "BTS", imageName: images[0], trackname: "Song1"))
-        songs.append(Song(name: "Stay", albumName: "Butter all", artistName: "Justin", imageName: images[1], trackname: "Song2"))
-        songs.append(Song(name: "1989", albumName: "Butter uu", artistName: "Taylor", imageName: images[2], trackname: "Song3"))
-        songs.append(Song(name: "Selena", albumName: "Butterii", artistName: "Selena", imageName: images[3], trackname: "Song4"))
-        songs.append(Song(name: "Butter", albumName: "Butter", artistName: "BTS", imageName: images[0], trackname: "Song1"))
-        songs.append(Song(name: "Stay", albumName: "Butter all", artistName: "Justin", imageName: images[1], trackname: "Song2"))
-        songs.append(Song(name: "1989", albumName: "Butter uu", artistName: "Taylor", imageName: images[2], trackname: "Song3"))
-        songs.append(Song(name: "Selena", albumName: "Butterii", artistName: "Selena", imageName: images[3], trackname: "Song4"))
-        songs.append(Song(name: "Butter", albumName: "Butter", artistName: "BTS", imageName: images[0], trackname: "Song1"))
-        songs.append(Song(name: "Stay", albumName: "Butter all", artistName: "Justin", imageName: images[1], trackname: "Song2"))
-        songs.append(Song(name: "1989", albumName: "Butter uu", artistName: "Taylor", imageName: images[2], trackname: "Song3"))
-        songs.append(Song(name: "Selena", albumName: "Butterii", artistName: "Selena", imageName: images[3], trackname: "Song4"))
+        songs.append(Song(name: "Butter", albumName: "Butter", artistName: "BTS", imageName: images[0], trackname: "song1"))
+        songs.append(Song(name: "Stay", albumName: "Butter all", artistName: "Justin", imageName: images[1], trackname: "song2"))
+        songs.append(Song(name: "1989", albumName: "Butter uu", artistName: "Taylor", imageName: images[2], trackname: "song3"))
+        songs.append(Song(name: "Selena", albumName: "Butterii", artistName: "Selena", imageName: images[3], trackname: "song4"))
+        songs.append(Song(name: "Butter", albumName: "Butter", artistName: "BTS", imageName: images[0], trackname: "song1"))
+        songs.append(Song(name: "Stay", albumName: "Butter all", artistName: "Justin", imageName: images[1], trackname: "song2"))
+        songs.append(Song(name: "1989", albumName: "Butter uu", artistName: "Taylor", imageName: images[2], trackname: "song3"))
+        songs.append(Song(name: "Selena", albumName: "Butterii", artistName: "Selena", imageName: images[3], trackname: "song4"))
+        songs.append(Song(name: "Butter", albumName: "Butter", artistName: "BTS", imageName: images[0], trackname: "song1"))
+        songs.append(Song(name: "Stay", albumName: "Butter all", artistName: "Justin", imageName: images[1], trackname: "song2"))
+        songs.append(Song(name: "1989", albumName: "Butter uu", artistName: "Taylor", imageName: images[2], trackname: "song3"))
+        songs.append(Song(name: "Selena", albumName: "Butterii", artistName: "Selena", imageName: images[3], trackname: "song4"))
     }
     
     
